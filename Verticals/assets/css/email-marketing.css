@@ -336,7 +336,7 @@ select:visited {
 }
 
 .em-main-menu-item .navbar-nav {
-  display: inherit;
+  display: -webkit-inline-box;
 }
 .em-main-menu-item .em-main-navigation {
   padding-top: 0px;
