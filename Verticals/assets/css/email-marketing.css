@@ -566,6 +566,23 @@ button {
 /*Banner area*/
 
 /*----------------------------------------------------*/
+.greater-then-svg{
+  content: "";
+  position: absolute;
+  height: 80px;
+  width: 40px;
+  top: 8rem;
+  right: 0px;
+  background-repeat: no-repeat;
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+/*---------------------------------------------------- */
+
+/*Banner area*/
+
+/*----------------------------------------------------*/
 
 .em-banner-content {
   padding-top: 185px;
