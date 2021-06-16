@@ -2772,6 +2772,21 @@ Sticky Menu
 .color-me{
   color:#e44126;
 }
+
+.sec-sec-p{
+  font-size: 123%;
+    /* font-size: 17px; */
+    font-weight: 500;
+    line-height: 1.647;
+    padding-bottom: 25px;
+    
+}
+.sec-sec-p-one{
+  font-size: 123%;   
+}
+.sec-sec-p-two{
+  font-size: 105%;   
+}
 /*---------------------------------------------------- */
 /*Responsive  area*/
 /*----------------------------------------------------*/
