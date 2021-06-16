@@ -1753,6 +1753,12 @@ select:visited {
   .smm-team-innerbox .smm-team-img:before {
     right: 65px;
   }
+  .greater-then-svg{
+    display: none;
+  }
+  .p-3{
+    font-size: 16px;
+  }
 }
 @media screen and (max-width: 767px) {
   .smm-case-innerbox {
