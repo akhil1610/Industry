@@ -563,19 +563,19 @@ button {
 
 /*---------------------------------------------------- */
 
-/*Banner area*/
+/*Greater then icon*/
 
 /*----------------------------------------------------*/
 .greater-then-svg{
-  content: "";
+  /* content: ""; */
   position: absolute;
   height: 80px;
   width: 40px;
   top: 8rem;
-  right: 0px;
-  background-repeat: no-repeat;
-  transform: translate(0px, 0px);
-  opacity: 1;
+  /* right: 0px; */
+  /* background-repeat: no-repeat; */
+  /* transform: translate(0px, 0px); */
+  /* opacity: 1; */
 }
 
 /*---------------------------------------------------- */
