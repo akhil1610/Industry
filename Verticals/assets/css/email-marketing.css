@@ -519,15 +519,15 @@ select:visited {
   max-width: 770px;
 }
 .em-banner-text h1 {
-  color: #000;
+  color: #fff;
   font-size: 50px;
   font-weight: 700;
   line-height: 1.08;
   padding-bottom: 15px;
 }
 .em-banner-text p {
-  color: #595959;
-  margin: 0 auto;
+  color: #fff;
+  /* margin: 0 auto; */
   font-size: 17px;
   max-width: 380px;
   padding-bottom: 25px;
